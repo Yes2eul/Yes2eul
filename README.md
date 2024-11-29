@@ -1,7 +1,7 @@
 ## Hi 👐
 
 <p>
-  I'm a <b>front-end engineer</b> passionate about creating valuable and seamless user experiences.
+  I'm a passionate about creating valuable and seamless user experiences.
   <br>
   I value building not only good interfaces but also intuitive interfaces that effectively meet the needs of users.
 </p>
