@@ -20,7 +20,7 @@
 <br>
 
 <p>
-  I'm always learning and growing as a developer to keep up with new technologies and trends in front-end development. 🚀
+  I'm always learning and growing to keep up with new technologies and trends. 🚀
 </p>
 
 <br>
